@@ -1,6 +1,7 @@
 langchain
 python-dotenv #to use the .env file in the notebooks
 ipykernel #to link kernel with ipyb notebook
-langchain_community
+langchain-community
 pypdf
 bs4 #beautiful soup for web crawling
+langchain-text-splitters
