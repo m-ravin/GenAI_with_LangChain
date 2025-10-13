@@ -5,3 +5,4 @@ langchain-community
 pypdf
 bs4 #beautiful soup for web crawling
 langchain-text-splitters
+langchain-openai
