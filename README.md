@@ -3,8 +3,6 @@
 
 This repository contains code and notebooks for learning and experimenting with Generative AI using LangChain, OpenAI, Ollama, and HuggingFace. The project demonstrates document ingestion, transformation, and embedding techniques for building LLM-powered applications.
 
-## Folder Structure
-
 ## Folder Details
 
 - **1-Langchain/**  
