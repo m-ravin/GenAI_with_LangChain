@@ -1,0 +1,3 @@
+OPENAI_API_KEY="sk-proj-***"
+LANGCHAIN_API_KEY="lsv2_**"
+LANGCHAIN_PROJECT="GenAIAPPwithOpenAI"
